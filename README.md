@@ -56,7 +56,7 @@ Waste items are categorized into recyclable (plastic, glass, metal, paper, cardb
    ```
 
 2. **Open your browser:**
-   - Visit [http://127.0.0.1:5000](http://127.0.0.1:5000)
+   - Visit [Real time Smart Waste Classification](https://huggingface.co/spaces/UdaraChamidu/Image-Processing-Based-Smart-Waste-Management-System)
 
 3. **Main Features:**
    - **Upload Image:** Classify waste by uploading an image.
@@ -125,15 +125,9 @@ waste detection app/
 
 ---
 
-## 📑 License
-
-This project is for academic and research use. Some model files may be subject to licensing (e.g., YOLO, EfficientNet). Please cite or respect original authors.
-
----
-
 ## 👤 Author
 
-Developed by [Udara Chamidu](https://github.com/UdaraChamidu)
+Developed by [Udara Chamidu](https://github.com/UdaraChamidu) and [Ashan Sanjana](https://github.com/Ashansanjana)))
 
 ---
 
