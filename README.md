@@ -125,7 +125,7 @@ waste detection app/
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 Developed by [Udara Chamidu](https://github.com/UdaraChamidu) and [Ashan Sanjana](https://github.com/Ashansanjana)))
 
