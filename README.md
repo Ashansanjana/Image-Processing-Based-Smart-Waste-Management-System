@@ -105,25 +105,34 @@ waste detection app/
 
 ## 📷 Screenshots
 
-*Home Page*
+### 🏠 Home Page  
 
-![Home](assets/home.png)
+<p align="center">✨ User-friendly landing page with image upload and classification entry point.</p>
 
-*Classification Result*
-
-![Result](assets/result.png)
-
-*Real-Time Detection*
-
-![Camera](assets/camera.png)
-
-*Statistics Dashboard*
-
-![Stats](assets/stats.png)
-
-*(Note: Add screenshots to an `assets/` folder for README display.)*
+<p align="center">
+  <img width="835" height="527" alt="image" src="https://github.com/user-attachments/assets/ad12d4c9-9ee5-44c1-8a78-f403f6131417" />
+</p>
 
 ---
+
+### 🧾 Classification Result  
+
+<p align="center">🔍 Displays predicted disease type with probability scores and model insights.</p>
+
+<p align="center">
+  <img width="578" height="572" alt="image" src="https://github.com/user-attachments/assets/a386c08a-6f5b-476a-8b3b-14e289bb6c8b" />
+</p>
+
+---
+
+### 📊 Statistics Dashboard  
+
+<p align="center">📈 Interactive dashboard showing model performance metrics, accuracy distribution, and detailed statistics.</p>
+
+<p align="center">
+  <img width="787" height="850" alt="image" src="https://github.com/user-attachments/assets/5bead5a9-fbbf-470d-be6c-0ca24adab5ae" />
+</p>
+
 
 ## 👤 Authors
 
