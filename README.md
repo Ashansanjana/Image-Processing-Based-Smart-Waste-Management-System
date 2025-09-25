@@ -8,7 +8,7 @@ An intelligent web application for automated waste classification using deep lea
 
 - **Image Classification:** Upload waste images to predict their category (e.g., plastic, metal, glass, trash, etc.).
 - **Real-Time Detection:** Use your device camera for live waste detection with bounding boxes and labels.
-- **Statistics Dashboard:** Visualize classification statistics with interactive charts.
+- **Statistics Dashboard:** Visualize classification statistics with interactive charts. 
 - **Downloadable Reports:** Export classification results as CSV or PDF for record-keeping and analysis.
 - **Modern UI:** Clean, responsive interface powered by Bootstrap.
 
